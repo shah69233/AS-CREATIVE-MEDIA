@@ -1,0 +1,6 @@
+{
+  "name": "Smart Workforce Manager",
+  "description": "Smart Employee Attendance, Activity Tracking, Break Management & Productivity Reporting System powered by Gemini AI",
+  "requestFramePermissions": ["geolocation", "camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
